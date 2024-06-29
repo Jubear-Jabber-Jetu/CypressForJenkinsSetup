@@ -1,0 +1,11 @@
+1) create a new folder for project & open in VSCode
+
+2) open cmd/terminal then execute below command(this will create package.json)
+  npm -i init     
+
+3) to install cypress 
+  npm install cypress --save -dev
+
+4) start cypress
+ npx cypress open     (or)
+ node_modules/.bin/cypress open
